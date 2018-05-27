@@ -1,0 +1,6 @@
+c:\users\mathuria\documents\visual studio 2013\Projects\Assignment\Assignment\bin\Debug\Assignment.exe.config
+c:\users\mathuria\documents\visual studio 2013\Projects\Assignment\Assignment\bin\Debug\Assignment.exe
+c:\users\mathuria\documents\visual studio 2013\Projects\Assignment\Assignment\bin\Debug\Assignment.pdb
+c:\users\mathuria\documents\visual studio 2013\Projects\Assignment\Assignment\obj\Debug\Assignment.csprojResolveAssemblyReference.cache
+c:\users\mathuria\documents\visual studio 2013\Projects\Assignment\Assignment\obj\Debug\Assignment.exe
+c:\users\mathuria\documents\visual studio 2013\Projects\Assignment\Assignment\obj\Debug\Assignment.pdb
